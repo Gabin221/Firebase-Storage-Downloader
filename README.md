@@ -15,11 +15,7 @@ Firebase Storage Downloader is a Python script that easily downloads all files f
 
 ## Installation
 
-+ Clone this repository:
-  ```bash
-  git clone https://github.com/Gabin221/FirebaseStorageDownloader.git
-  cd FirebaseStorageDownloader
-  ```
++ Download this repository.
 + Install the required Python packages:
 ```bash
 pip install firebase-admin
