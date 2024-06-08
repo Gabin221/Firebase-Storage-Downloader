@@ -25,8 +25,8 @@ Firebase Storage Downloader is a Python script that easily downloads all files f
 pip install firebase-admin
 ```
 + Set up your Firebase credentials:
- + Download your service account key from the Firebase console.
- + Save the key file as **cred.json** in the project directory.
+   + Download your service account key from the Firebase console.
+   + Save the key file as **cred.json** in the project directory.
 
 ## Usage
 
